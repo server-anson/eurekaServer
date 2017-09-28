@@ -1,4 +1,4 @@
-package cn.sinobest;
+package cn.hisign;
 
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.builder.SpringApplicationBuilder;

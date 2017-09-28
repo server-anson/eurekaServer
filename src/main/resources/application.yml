@@ -1,0 +1,14 @@
+server:
+  port : 1111
+
+spring:
+  application:
+    name : eureka-service
+
+eureka:
+  client:
+    serviceUrl:
+      defautlZone : http://localhost:${server.port}/eureka/
+    register-with-eureka : false
+  instance:
+    hostname : localhost
