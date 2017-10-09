@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$" />
+  </component>
   <component name="IdProvider" IDEtalkID="0DE6A8D06C61D8DF517B23D8DB656721" />
   <component name="JUnitGeneratorProjectSettings">
     <option name="selectedTemplateKey" value="JUnit 4" />

@@ -11,8 +11,16 @@
       <entry name="!?*.kt" />
       <entry name="!?*.clj" />
     </wildcardResourcePatterns>
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="eurekaServer" />
+      </profile>
+    </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="eurekaServer" target="1.7" />
+      <module name="eurekaServer" target="1.5" />
       <module name="testSpringCloud" target="1.5" />
     </bytecodeTargetLevel>
   </component>
