@@ -12,6 +12,7 @@
       <entry name="!?*.clj" />
     </wildcardResourcePatterns>
     <bytecodeTargetLevel>
+      <module name="eurekaServer" target="1.7" />
       <module name="testSpringCloud" target="1.5" />
     </bytecodeTargetLevel>
   </component>

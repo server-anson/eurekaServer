@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/eurekaServer.iml" filepath="$PROJECT_DIR$/eurekaServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/eurekaServer.iml" filepath="$PROJECT_DIR$/.idea/eurekaServer.iml" />
+      <module fileurl="file://D:\xhh\Project-Workspaces\idea\eurekaServer\eurekaServer.iml" filepath="D:\xhh\Project-Workspaces\idea\eurekaServer\eurekaServer.iml" />
     </modules>
   </component>
 </project>
