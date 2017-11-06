@@ -10,3 +10,4 @@ gen
 target/
 /eurekaServer.iml
 /.idea/
+/.idea
