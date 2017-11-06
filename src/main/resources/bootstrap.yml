@@ -15,6 +15,7 @@ eureka:
     enable-self-preservation: false
     eviction-interval-timer-in-ms: 10000
   instance:
+    perferIpAddress: true
     hostname: localhost
   client:
     serviceUrl:
