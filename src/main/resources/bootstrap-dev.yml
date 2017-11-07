@@ -8,7 +8,7 @@ spring:
 #      label: xjg
 #      profile: xx,ss
 server:
-  port: 2222
+  port: 1111
 
 eureka:
   server:
